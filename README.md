@@ -53,3 +53,7 @@ git push origin :refs/tags/<tag-name>
 git submodule update --init
 git submodule add <submodule-repo-url> <submodule-repo-name>
 ```
+
+## 参考资料
+
+- [Pro Git](http://www.git-scm.com/book/)
