@@ -1,4 +1,4 @@
-# git-start
+# Git起步
 Getting started with Git (GitHub)
 
 ## Git核心配置
