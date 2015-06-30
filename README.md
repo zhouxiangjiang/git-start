@@ -43,24 +43,3 @@ git config --list                                        # 查看当前配置
 8. 本地提交 ```git commit -m '<commit message>'```
 9. 远程提交 ```git push```
 10. 创建`Pull Request`并提交
-
-删除远程分支：
-
-```bash
-git push [-f] <remote-repo> :<remote-branch>
-```
-
-查看提交日志：
-
-```bash
-git log
-```
-
-发布
-
-```bash
-git tag -a <tag-name>
-git push origin :refs/tags/<tag-name>
-```
-
-
