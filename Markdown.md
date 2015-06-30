@@ -121,6 +121,29 @@ print 'Hello world'
 #issue
 ```
 
+## 表格
+
+```markdown
+| Name | Description          |
+| ------------- | ----------- |
+| Help      | Display the help window.|
+| Close     | Closes a window     |
+```
+
+```html
+<table>
+</table>
+```
+
+## 任务清单
+
+```markdown
+- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> are supported
+- [x] list syntax is required (any unordered or ordered list supported)
+- [x] this is a complete item
+- [ ] this is an incomplete item
+```
+
 ## 参考资料
 
 - [Writing on GitHub](https://help.github.com/categories/writing-on-github/)
